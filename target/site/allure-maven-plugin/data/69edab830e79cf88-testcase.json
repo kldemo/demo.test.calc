@@ -1,0 +1,47 @@
+{
+  "uid" : "69edab830e79cf88",
+  "name" : "testApp[5]",
+  "title" : "Test app [5]",
+  "time" : {
+    "start" : 1472733891798,
+    "stop" : 1472733891798,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "8c7f73317baedbe8",
+    "name" : "demo.test.calc.AppTest",
+    "title" : "App test"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "spb8642"
+  }, {
+    "name" : "thread",
+    "value" : "784@spb8642.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "demo.test.calc.AppTest"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

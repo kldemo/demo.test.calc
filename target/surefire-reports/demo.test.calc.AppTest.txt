@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: demo.test.calc.AppTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.296 sec <<< FAILURE! - in demo.test.calc.AppTest
+testApp[4](demo.test.calc.AppTest)  Time elapsed: 0.015 sec  <<< FAILURE!
+java.lang.AssertionError: expected:<3960> but was:<1000>
+	at demo.test.calc.AppTest.testApp(AppTest.java:81)
+
